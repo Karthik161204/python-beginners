@@ -1,1 +1,1 @@
-# simple-calculator
+# Python Projects for Beginners
